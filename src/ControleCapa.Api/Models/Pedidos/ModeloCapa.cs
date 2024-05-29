@@ -2,7 +2,7 @@ using System.ComponentModel;
 
 namespace ControleCapa.Api.Models.Pedidos
 {
-    public enum ModelosCapas
+    public enum ModeloCapa
     {
         [Description("SMART")]
         Smart = 0,
